@@ -34,7 +34,12 @@ My favorite questions to ask when I am being interviewed
 ### What does your stack look like? What languages/tools/etc. do you use?
 
 ### Is there a budget for employee education/training/development/etc.?
-####Is there support for conference attendance?
+
+### Is there support for conference attendance?
+
+### What's the frustrating thing about working at [company]?
+
+### What's the biggest problem facing this department/company?
 
 ### How flexible are work hours?
 
