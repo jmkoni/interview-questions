@@ -34,7 +34,7 @@ My favorite questions to ask when I am being interviewed
 ### What does your stack look like? What languages/tools/etc. do you use?
 
 ### Is there a budget for employee education/training/development/etc.?
-Is there support for conference attendance?
+####Is there support for conference attendance?
 
 ### How flexible are work hours?
 
@@ -77,3 +77,7 @@ Is there support for conference attendance?
 ### Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
 
 ### How often do you have meetings? Are there any scheduled/standing meetings?
+
+### How are projects/initiatives prioritized? What's the prioritization process? How does the team deal with changes in priority that may lead to context switching?
+
+### How is the work stream balanced to deliver new features vs customer demanded features vs bug fixes?
