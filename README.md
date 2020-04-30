@@ -1,88 +1,107 @@
 # interview-questions
-My favorite questions to ask when I am being interviewed
+I've had a lot of jobs and, over the years, I've been refining my list of questions to do my best to ensure that the company I'm interviewing at is a good fit for *me*. This is an important aspect of interviewing and you should feel free to either use this list verbatim or use just the questions that are relevant to you and your needs. I also listed additional resources at the bottom.
 
-### Can you walk me through your development process, from a ticket or task to code on production?
+## Culture
 
-### What checks and balances are in place to make sure people don't make big mistakes or repeat mistakes
+1. How does the engineering culture differ from the overall company culture?
 
-### What is your build process like?
+1. Can you give me an example of a mistake you've made here, and how it was handled?
 
-### Technical capabilities aside, what soft skills would make someone successful in this role?
+1. How often do you pair?
 
-### How does this team plan projects and create deadline estimates?
+1. When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
 
-### Are there times of the month, quarter, or year when the team is most busy?
+1. How are disagreements solved - both technical disagreements and other kinds?
 
-### What accomplishment are you most proud of since joining the company?
+1. What happens when personalities clash?
 
-### What is the median age that an issue will be open for?
+1. How flexible are work hours?
 
-### What size is the team?
+1. What tools do you use for remote collaboration?
 
-### How many total development teams?
+1. How do they work together and ensure good communication and collaboration?
 
-### Tell me a little bit about your team onboarding process.
+1. Can you tell me about what I can expect from the interview process?
 
-### How is employee performance evaluated?
+1. How many hours do people work in an average week? In your busiest weeks?
 
-### What sort of growth is available for senior engineers?
+1. How often are there emergencies or times when people have to work extra hours?
 
-### What tools do you use for remote collaboration?
+## Dev Process
 
-### How do they work together and ensure good communication and collaboration?
+1. Who sets deadlines and what happens when people fail to meet them?
 
-### What does your stack look like? What languages/tools/etc. do you use?
+1. Can you walk me through your development process, from a ticket or task to code on production?
 
-### Is there a budget for employee education/training/development/etc.?
+1. What checks and balances are in place to make sure people don't make big mistakes or repeat mistakes
 
-### Is there support for conference attendance?
+1. What is your build process like?
 
-### What's the frustrating thing about working at [company]?
+1. How does this team plan projects and create deadline estimates?
 
-### What's the biggest problem facing this department/company?
+1. What is the median age that an issue will be open for?
 
-### How flexible are work hours?
+1. Who is responsible for doing deployment? How often do you deploy?
 
-### Would I need to be on call? How often? What is the SLA? How often do people tend to be paged? How often is it a real emergency?
+1. Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
 
-### Can you tell me about what I can expect from the interview process?
+1. How often do you have meetings? Are there any scheduled/standing meetings?
 
-### How does your company support the growth of junior engineers?
+1. What’s your approach to technical debt?
 
-### How many hours do people work in an average week? In your busiest weeks?
+1. Describe your deployment process – how do you find bugs in your team’s code?
 
-### How often are there emergencies or times when people have to work extra hours?
+1. Do you have a QA team?
 
-### How much vacation do people get? Sick leave? Are they combined or separate?
+1. Do you have style guides?
 
-### Do people check in when they’re on vacation? How often?
+1. How does engineering work get assigned?
 
-### How does engineering work get assigned?
+1. How are technical decisions made and communicated?
 
-### How are technical decisions made and communicated?
+1. Would I need to be on call? How often? What is the SLA? How often do people tend to be paged? How often is it a real emergency?
 
-### Do you have style guides?
+1. What does your stack look like? What languages/tools/etc. do you use?
 
-### How are disagreements solved - both technical disagreements and other kinds?
+1. What sort of growth is available for senior engineers?
 
-### What happens when personalities clash?
+1. How does your company support the growth of junior engineers?
 
-### How often do you pair?
+## Soft Skills
 
-### Do you have a QA team?
+1. Technical capabilities aside, what soft skills would make someone successful in this role?
 
-### When something goes wrong, how do you handle it? Do devs get shamed for breaking the build?
+## Company
 
-### What’s your approach to technical debt?
+1. Are there times of the month, quarter, or year when the team is most busy?
 
-### Describe your deployment process – how do you find bugs in your team’s code?
+1. Tell me a little bit about your team onboarding process.
 
-### Who is responsible for doing deployment? How often do you deploy?
+1. How is employee performance evaluated?
 
-### Is there a written roadmap all developers can see? How far into the future does it extend? How closely is it followed?
+1. Is there a budget for employee education/training/development/etc.?
 
-### How often do you have meetings? Are there any scheduled/standing meetings?
+1. Is there support for conference attendance?
 
-### How are projects/initiatives prioritized? What's the prioritization process? How does the team deal with changes in priority that may lead to context switching?
+## General
 
-### How is the work stream balanced to deliver new features vs customer demanded features vs bug fixes?
+1. What accomplishment are you most proud of since joining the company?
+
+1. What size is the team?
+
+1. How many total development teams?
+
+1. How much vacation do people get? Sick leave? Are they combined or separate?
+
+1. Do people check in when they’re on vacation? How often?
+
+## Additional Resources
+[Culture Queries](https://www.keyvalues.com/culture-queries)
+
+[The Cut: Best Questions to Ask in a Job Interview](https://www.thecut.com/article/questions-to-ask-in-a-job-interview.html)
+
+[Julie Pagano's Job Search Retrospective](http://juliepagano.com/blog/2015/08/15/job-search-retrospective/#interview-questions)
+
+[Julia Evan's Questions I'm Asking In Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+
+[Julia Evan's Compensation Questions](https://jvns.ca/blog/compensation-questions/)
