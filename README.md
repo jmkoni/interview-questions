@@ -1,6 +1,26 @@
 # interview-questions
 I've had a lot of jobs and, over the years, I've been refining my list of questions to do my best to ensure that the company I'm interviewing at is a good fit for *me*. This is an important aspect of interviewing and you should feel free to either use this list verbatim or use just the questions that are relevant to you and your needs. I also listed additional resources at the bottom.
 
+## From Ask A Manager
+
+1. What are the biggest challenges the person in this position will face? 
+
+1. Can you describe a typical day or week in the position? 
+
+1. What would a successful first year in the position look like? 
+
+1. How will the success of the person in this position be measured? 
+
+1. How would you describe the culture here? 
+
+1. How would you describe your management style? 
+
+1. Thinking to the person who you've seen do this job best, what made their performance so outstanding? 
+
+1. Are there any reservations you have about my fit for the position that I could address? 
+
+1. Thinking back to people who have been in this position previously, what differentiated the ones who were good from the ones who were really great? 
+
 ## Culture
 
 1. How does the engineering culture differ from the overall company culture?
