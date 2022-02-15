@@ -125,3 +125,5 @@ I've had a lot of jobs and, over the years, I've been refining my list of questi
 [Julia Evan's Questions I'm Asking In Interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 
 [Julia Evan's Compensation Questions](https://jvns.ca/blog/compensation-questions/)
+
+[Charity's How Can You Tell If The Company You're Interviewing With Is Rotten On The Inside](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
