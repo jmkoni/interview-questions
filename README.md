@@ -127,3 +127,5 @@ I've had a lot of jobs and, over the years, I've been refining my list of questi
 [Julia Evan's Compensation Questions](https://jvns.ca/blog/compensation-questions/)
 
 [Charity's How Can You Tell If The Company You're Interviewing With Is Rotten On The Inside](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
+
+[Good Questions To Ask In An Interview](https://www.interviewbit.com/blog/good-questions-to-ask-in-an-interview/)
